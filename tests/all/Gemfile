@@ -1,0 +1,5 @@
+git 'git://github.com/rkh/bundler_test.git' do
+  gem 'bundler_test'
+  gem 'foo'
+  gem 'bar'
+end

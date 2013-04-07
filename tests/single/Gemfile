@@ -1,0 +1,1 @@
+gem 'bundler_test', github: 'rkh/bundler_test'
