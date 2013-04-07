@@ -1,4 +1,4 @@
-git 'git://github.com/rkh/bundler_test.git' do
+git 'git://github.com/rkh/bundler_test.git', glob: '{**/*}.gemspec' do
   gem 'bundler_test'
   gem 'foo'
   gem 'bar'
